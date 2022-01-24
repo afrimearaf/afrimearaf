@@ -6,5 +6,6 @@
 - 🔭 I’m currently working on  Neural Network Based Bengali Traffic Sign Detection and Recognition on Voice Command
 - 🌱 I’m currently learning Laravel & CodeIgniter 
 - 👯 I’m looking to collaborate on Open Source Projects.
+- 💬 Ask me about Tech & PCs
 - 📫 Reach me: [afrimectg@gmail.com](https://afrimectg@gmail.com)
 
