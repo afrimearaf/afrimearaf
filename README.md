@@ -8,4 +8,4 @@
 - 👯 I’m looking to collaborate on Open Source Projects.
 - 💬 Ask me about Tech & PCs
 - 📫 Reach me: [afrimectg@gmail.com](https://afrimectg@gmail.com)
-
+<img src"https://github-readme-stats.vercel.app/api?username=afrimearaf&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" >
